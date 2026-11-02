@@ -31,3 +31,10 @@ This project, developed as part of an academic study, focuses on creating a weat
    git clone https://github.com/yourusername/weather-station.git
    cd weather-station
    ```
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
